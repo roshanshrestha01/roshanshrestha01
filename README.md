@@ -3,6 +3,7 @@ Software engineer at [zenledger.io](http://zenledger.io/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanshrestha01&layout=compact)](https://github.com/roshanshrestha01/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanshrestha01)](https://git.io/streak-stats)
 
 <!--
 **roshanshrestha01/roshanshrestha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
