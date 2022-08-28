@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Roshan Shrestha! 👋
+Software engineer at [zenledger.io](http://zenledger.io/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanshrestha01&layout=compact)](https://github.com/roshanshrestha01/github-readme-stats)
 
