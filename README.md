@@ -1,9 +1,8 @@
 <h3> Hi, I'm Roshan Shrestha! 👋 </h3>
+<!--
 <p> 
 Software engineer at <a href="http://zenledger.io/" target="_blank">zenledger.io</a>
 </p>
-
-<!--
 <h4>Hard Skills</h4>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
